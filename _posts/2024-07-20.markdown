@@ -15,4 +15,4 @@ title: Minecraft: Star Edition 0.2
 **GET THE SERVER RELEASE:**<br>
 
 Cross-platform server jar:<br>
-\* [Minecraft server jar](SERVER:TODO)<br>
+\* [Minecraft server jar](https://star-edition.github.io/star_edition/index.html)<br>
