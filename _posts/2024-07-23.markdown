@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minecraft Star Edition 0.2.6
+title: "Minecraft Star Edition 0.2.6"
 ---
 
 **Changelog:**<br>
