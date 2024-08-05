@@ -1,0 +1,31 @@
+---
+layout: post
+title: Minecraft: Star Edition 0.15
+---
+
+**Changelog:**<br>
+\* Added Harvest and Blood moons<br>
+\* Added a Spear weapon<br>
+\* Added Paxels <i>(Wooden, Iron, Gold, Diamond)</i><br>
+\* Added Divinity I and Divinity II enchantments for boots<br>
+\* Slimes now quench torches on contact<br>
+\* Added Mimics <i>(5% chance to spawn instead of a normal generated chest.</i><br>
+\* Made Compasses show the player coordinates<br>
+\* Made Clocks show the relative World time<br>
+\* Planks now moss over time if they are touching a body of water<br>
+\* Reimplemented Peaceful mode mechanics and removed it from the options menu<br>
+\* Reimplemented the Giant <i>(does not spawn naturally yet)</i><br>
+\* Reimplemented the glass pillar for Strongholds<br>
+\* Reimplemented the old Cloth textures <i>(and similar variants for Hardened Stained Clay & Stained Glass)</i><br>
+\* Added a texture for the 'Glowing Mix' item<br>
+\* Reimplemented the Brick Pyramid from Infdev <i>(Spawns alongside the Bonus Chest)</i><br>
+\* Reworked the server jar to work with the client jar<br>
+\* Fixed a bug between Fire and block ids crashing the server<br>
+\* Fixed the texture logic behind the Block of Diamond, Gold and Iron<br>
+\* Reimplemented the Golden Egg<br>
+\* Removed Acacia Wood<br>
+
+**GET THE SERVER RELEASE:**<br>
+
+Cross-platform server jar:<br>
+\* [Minecraft server jar](SERVER:TODO)<br>
