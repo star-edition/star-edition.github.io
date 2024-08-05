@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/news" # the subpath of your site, e.g. /blog
+url: "https://star-edition.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 
 # Build settings
@@ -27,7 +27,7 @@ lang: en
 plugins:
   - jekyll-paginate
 
-paginate: 5
+paginate: 10
 paginate_path: "/news/page/:num"
 
 manual:
