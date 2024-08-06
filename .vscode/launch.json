@@ -1,22 +1,37 @@
+// {
+//     "version": "0.2.0",
+//     "configurations": [
+//         {
+//             "name": "Launch index.html",
+//             "type": "firefox",
+//             "request": "launch",
+//             "reAttach": true,
+//             "file": "${workspaceFolder}/index.html",
+//             "firefoxExecutable": "C:/Program Files/Ablaze Floorp/floorp.exe"
+//         },
+
+//         {
+//             "type": "rdbg",
+//             "name": "Debug Jekyll",
+//             "request": "launch",
+//             "script": "bin/jekyll build --config _config.yml --profile",
+//             "args": [],
+//             "askParameters": false,
+//         }
+//     ]
+// }
+
+
 {
     "version": "0.2.0",
     "configurations": [
-        {
-            "name": "Launch index.html",
-            "type": "firefox",
-            "request": "launch",
-            "reAttach": true,
-            "file": "${workspaceFolder}/index.html",
-            "firefoxExecutable": "C:/Program Files/Ablaze Floorp/floorp.exe"
-        },
-
-        {
-            "type": "rdbg",
-            "name": "Debug Jekyll",
-            "request": "launch",
-            "script": "bin/jekyll build --config _config.yml --profile",
-            "args": [],
-            "askParameters": false,
-        }
+      {
+        "type": "rdbg",
+        "name": "Debug Jekyll",
+        "request": "launch",
+        "script": "bin/jekyll build --config _config.yml --profile",
+        "args": [],
+        "askParameters": false,
+      }
     ]
-}
+  }
