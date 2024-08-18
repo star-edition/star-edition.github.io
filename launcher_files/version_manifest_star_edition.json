@@ -4,6 +4,15 @@
     "snapshot": "E0.3"
   },
   "versions": [
+      {
+      "id": "E0.35",
+      "type": "experimental",
+      "url": "https://raw.githubusercontent.com/star-edition/star_edition-piston-meta/master/E0.35/E0.35.json",
+      "time": "2021-12-15T15:44:05+00:00",
+      "releaseTime": "2014-05-14T17:29:23+00:00",
+      "sha1": "ed5d8789ed29872ea2ef1c348302b0c55e3f3468",
+      "complianceLevel": 0
+    },
     {
       "id": "E0.3",
       "type": "experimental",
