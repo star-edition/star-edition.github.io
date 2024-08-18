@@ -2137,6 +2137,11 @@
     ],
     "subtitle": "subtitles.item.bottle.fill"
   },
+  "item.dye.use": {
+    "sounds": [
+      "item/dye/pencil_scratch"
+    ],
+  },
     "entity.horse.eat": {
     "sounds": [
       "entity/horse/eat1",

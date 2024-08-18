@@ -7,7 +7,7 @@
             "hash": "55c5dde238c2e13934ce5af949112bb44d845fe4"
         },
         "minecraft/sounds.json": {
-            "hash": "06ed75771ecc3c466bc586fd198a92d48121a1a8"
+            "hash": "45fd96d05f6f6751f418c55134cff02ba19efc30"
         },
         "minecraft/sounds/ambient/cave/cave1.ogg": {
             "hash": "29d4dccf3353334c7aa2a49cb6fed3780a51a1ba"
@@ -105,11 +105,17 @@
         "minecraft/sounds/ambient/loops/frogs2.ogg": {
             "hash": "fa340ffbd161b071d013e529ffd84a06bad1406d"
         },
-        "minecraft/sounds/ambient/loops/night1.ogg": {
+        "minecraft/sounds/ambient/loops/night1(copy).ogg": {
             "hash": "5e83f32ee17bafde18eceaa1a6b38df963265f07"
         },
-        "minecraft/sounds/ambient/loops/night2.ogg": {
+        "minecraft/sounds/ambient/loops/night1.ogg": {
+            "hash": "3b7fb8b5a0eeda229057a03f78d1d04edc25cbc7"
+        },
+        "minecraft/sounds/ambient/loops/night2(copy).ogg": {
             "hash": "4ee7c7f45501ff32d416ee1ff856544ef3dccf11"
+        },
+        "minecraft/sounds/ambient/loops/night2.ogg": {
+            "hash": "acd8b42c1522926b1f6f1ed082099cb621cbb6a6"
         },
         "minecraft/sounds/ambient/loops/ocean.ogg": {
             "hash": "3dcabf03cc22de062d98bcc8466e79869a7fa9b5"
@@ -674,6 +680,9 @@
         },
         "minecraft/sounds/item/bucket/fill_lava3.ogg": {
             "hash": "99125d80da85a6055d5757fe9194bee680ac9a63"
+        },
+        "minecraft/sounds/item/dye/pencil_scratch.ogg": {
+            "hash": "6f60efbdefeae5d1ad72b58960eb1dc5fc302122"
         },
         "minecraft/sounds/item/hoe/till1.ogg": {
             "hash": "0e6696ec35c5f4982cad6a6731edcffb11728aa9"

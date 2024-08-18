@@ -4,7 +4,7 @@
     "experiment": "E0.35"
   },
   "versions": [
-      {
+    {
       "id": "E0.35",
       "type": "experiment",
       "url": "https://raw.githubusercontent.com/star-edition/star_edition-piston-meta/master/E0.35/E0.35.json",
