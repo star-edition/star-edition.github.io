@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Manual: 4 RAM</title>
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="/css/manual.css" />
+  </head>
+
+  <body>
+    
+    <table class="manual-content-table">
+      <tr class="manual-header-row">
+        <th class="manual-toc-col">Manual Contents</th>
+        <th class="manual-content-col">
+          
+  
+
+  
+
+  
+
+  
+
+  
+    
+      
+      <a href="03-gamever" style="float: left;">Previous</a>
+    
+    OLauncher Manual
+    
+      
+      <a href="05-logs" style="float: right;">Next</a>
+    
+  
+
+  
+
+  
+
+
+        </th>
+      </tr>
+      <tr class="manual-content-row">
+        <td class="manual-toc-cell manual-toc-col">
+          <ol class="manual-pages-list" start="0">
+  
+    <li class="manual-page" id="manual-page-index">
+      
+        <a href="/manual/index">Manual Index</a>
+      
+    </li>
+  
+    <li class="manual-page" id="manual-page-01-signin">
+      
+        <a href="/manual/01-signin">Manage Microsoft Accounts</a>
+      
+    </li>
+  
+    <li class="manual-page" id="manual-page-02-profiles">
+      
+        <a href="/manual/02-profiles">Manage Launcher Profiles</a>
+      
+    </li>
+  
+    <li class="manual-page" id="manual-page-03-gamever">
+      
+        <a href="/manual/03-gamever">Select the Game Version</a>
+      
+    </li>
+  
+    <li class="manual-page" id="manual-page-04-ram">
+      
+        Change RAM Allocation
+      
+    </li>
+  
+    <li class="manual-page" id="manual-page-05-logs">
+      
+        <a href="/manual/05-logs">Collect Launcher Logs</a>
+      
+    </li>
+  
+    <li class="manual-page" id="manual-page-06-installmg">
+      
+        <a href="/manual/06-installmg">Manage a Minecraft Profile</a>
+      
+    </li>
+  
+</ol>
+
+        </td>
+        <td class="manual-content-cell manual-content-col">
+          <h1 id="change-ram-allocation">Change RAM Allocation</h1>
+<p>This page will guide you through changing the amount of RAM allocated to Minecraft. Normally, when</p>
+
+<h2 id="table-of-contents">Table of Contents</h2>
+<ol>
+  <li><a href="#allocate-more-ram-to-minecraft">Allocate More RAM to Minecraft</a></li>
+</ol>
+
+<h2 id="what-you-will-need">What you will Need</h2>
+<p>Excluding having <a href="01-signin">logged into the launcher</a>, you will need the following things to follow the instructions on this page:</p>
+
+<ul>
+  <li>A launcher profile</li>
+</ul>
+
+<h3 id="a-note-on-jvm-arguments">A Note on JVM Arguments</h3>
+<p>Java Virtual Machine (JVM) arguments control the Java environment. Changing these options may cause the game to fail to start. Proceed with caution.</p>
+
+<p><em>Note</em>: This article will not guide you through the process of tuning your garbage collector for performance. That process is complex and beyond the scope of this manual.</p>
+
+<h2 id="allocate-more-ram-to-minecraft">Allocate More RAM to Minecraft</h2>
+<ol>
+  <li>
+    <p>Choose a profile to edit and click <strong>Edit Profile</strong> (see <a href="#fig01">Figure 1</a>). These options can be found in the lower right corner.</p>
+
+    <p><span class="manual-figure" id="fig01">
+<a href="img/03/fig01-edit-profile.png"><img alt="Profile selector" src="img/03/fig01-edit-profile.png" /></a><br />
+<strong>Figure 1</strong>: Profile selector
+</span></p>
+
+    <p>A profile editor window should appear.</p>
+
+    <p><em>Note</em>: You may also follow the steps in <a href="02-profiles#edit-a-profile">Edit a profile</a>.</p>
+  </li>
+  <li>
+    <p>Change the heap size under <strong>JVM Arguments</strong>.</p>
+
+    <p><em>Note</em>: The checkbox next to <strong>JVM Arguments</strong> must be checked to edit the arguments.</p>
+
+    <p>The “heap size” is set by arguments starting with “-Xms” and “-Xmx”. The former is the “starting” size of the heap, or the RAM usage when the game first launches. The latter is the “maximum” size of the heap. The game cannot use more memory than specified in “-Xmx”.</p>
+
+    <p>Follow these arguments with a number and unit like so: “-Xmx2G” for 2 gigabytes of RAM, “-Xms512M” for 512 megabytes of starting size.</p>
+
+    <p>It is recommended that you do not set “-Xmx” too high or too low. If the game has too little RAM allocated (usually less than 1 or 2 gigabytes), the game will stutter every few seconds. In-game, you can see this with the F3 menu. If the game has too much RAM allocated (over 8 gigabytes or so depending on your garbage collector), it may perform worse as well.</p>
+  </li>
+  <li>
+    <p>Click <strong>Save Profile</strong>.</p>
+  </li>
+</ol>
+
+        </td>
+      </tr>
+      <tr>
+        <th />
+        <th class="manual-content-col">
+          
+  
+
+  
+
+  
+
+  
+
+  
+    
+      
+      <a href="03-gamever" style="float: left;">Previous</a>
+    
+    OLauncher Manual
+    
+      
+      <a href="05-logs" style="float: right;">Next</a>
+    
+  
+
+  
+
+  
+
+
+        </th>
+      </tr>
+    </table>
+  </body>
+</html>
