@@ -1,0 +1,33 @@
+{
+  "language": {
+    "en_US": {
+      "region": "US",
+      "name": "English",
+      "bidirectional": false
+    },
+	"en_GB": {
+      "region": "UK",
+      "name": "English",
+      "bidirectional": false
+    },
+    "en_PT": {
+      "region": "PIRATE",
+      "name": "Pirate Speak",
+      "bidirectional": false
+    },
+    "ru_RU": {
+      "region": "Россия",
+      "name": "Русский",
+      "bidirectional": false
+    },
+    "uk_UA": {
+      "region": "Україна",
+      "name": "Українська",
+      "bidirectional": false
+    }
+  },
+  "pack": {
+    "description": "The default look of Minecraft: Star Edition",
+    "pack_format": 1
+  }
+}
