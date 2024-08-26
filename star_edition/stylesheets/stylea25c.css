@@ -136,12 +136,13 @@ body:before {
 }
 
 header {
-    height: 48px;
+    height: 64px;
     background: #211710 url(../images/bg_top.png);
+    background-size: contain;
 }
 
 header a, header a:active, header a:visited {
-    font-size: 16px;
+    font-size: 20px;
     font-weight: bold;
     text-decoration: none;
 }
@@ -167,20 +168,21 @@ p.error,
 #logo {
     float: left;
     width:260px;
-    height:48px;
+    height:64px;
     background: transparent url(../images/logo.gif) no-repeat 0 1px;
 	background-position:bottom;
 	background-position-y:-15px;
     display:block;
     overflow:hidden;
     text-indent:-10000px;
+    background-size: 230px;
 }
 
 #menu {
     list-style: none;
     font-size: 16px;
     font-weight: bold;
-    padding:14px 0 0;
+    padding:19px 0 0;
     width: 415px;
     margin-top:0;
     float: left;
@@ -225,7 +227,7 @@ p.error,
 #userbox {
     width:300px;
     text-align:right;
-    padding:14px 0 0;
+    padding:19px 0 0;
     float: left;
 }
 
