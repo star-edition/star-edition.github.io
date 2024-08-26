@@ -168,7 +168,9 @@ p.error,
     float: left;
     width:260px;
     height:48px;
-    background: transparent url(../images/logo.png) no-repeat 0 1px;
+    background: transparent url(../images/logo.gif) no-repeat 0 1px;
+	background-position:bottom;
+	background-position-y:-15px;
     display:block;
     overflow:hidden;
     text-indent:-10000px;
