@@ -9,16 +9,16 @@
             "size": 778
         },
         "minecraft/sounds.json": {
-            "hash": "a4416bd718e04246d78b45e0a0ae6c8755f7d976",
-            "size": 44538
+            "hash": "63d679fe155c642afdffb69ffdbe04e30fe96477",
+            "size": 46694
         },
         "minecraft/lang/en_PT.lang": {
-            "hash": "4bea0b5991903e112d9f98d7937d92076c51e960",
-            "size": 76865
+            "hash": "53c17714e5eb1129bac3d357527edc264fffdf76",
+            "size": 76936
         },
         "minecraft/lang/ru_RU.lang": {
-            "hash": "8003d6d3c1fc06962f329bdb5a852bea368940fe",
-            "size": 105887
+            "hash": "677a5d0420d74a65979b9aeacb6c90c85c7b8cc9",
+            "size": 105809
         },
         "minecraft/sounds/ambient/cave/cave1.ogg": {
             "hash": "29d4dccf3353334c7aa2a49cb6fed3780a51a1ba",
@@ -2428,6 +2428,46 @@
             "hash": "9528b6a76e7bac64ca1145cc682e8a8448cc04e5",
             "size": 2665984
         },
+        "minecraft/sounds/music/game/SE-anthem.ogg": {
+            "hash": "af118d475afc54a5d6ca9f2dd1141945bc3cca3c",
+            "size": 2514027
+        },
+        "minecraft/sounds/music/game/SE-but_i_love_you.ogg": {
+            "hash": "48b5e00900b6112939613cd93507599028d84dd0",
+            "size": 2298235
+        },
+        "minecraft/sounds/music/game/SE-danny_makes_chiptune.ogg": {
+            "hash": "40349cc8f4d107bacd5d7c50cf05445148efcef5",
+            "size": 2085121
+        },
+        "minecraft/sounds/music/game/SE-deldee.ogg": {
+            "hash": "4bf2fbfc907b4e0d9c429e704446c8933da3f36d",
+            "size": 6862847
+        },
+        "minecraft/sounds/music/game/SE-imaginary_interlude.ogg": {
+            "hash": "9e68db58f5d9b2d060d9822a62ea79c587ffabc9",
+            "size": 5207403
+        },
+        "minecraft/sounds/music/game/SE-love.ogg": {
+            "hash": "0c8c5c283638a52b72b89f184559e8c41b7306c5",
+            "size": 4234901
+        },
+        "minecraft/sounds/music/game/SE-repetition.ogg": {
+            "hash": "02376dce457273e3cbc812212681f1fedbadfe29",
+            "size": 2433875
+        },
+        "minecraft/sounds/music/game/SE-unk1.ogg": {
+            "hash": "93fe4540e1b697f94c13098210cbb0c04ce82a28",
+            "size": 1505141
+        },
+        "minecraft/sounds/music/game/SE-unk2.ogg": {
+            "hash": "fb1ce88ff9f1c99ac463bf7d72e4d7bc6fea8c2f",
+            "size": 1509663
+        },
+        "minecraft/sounds/music/game/SE_zweiton.ogg": {
+            "hash": "403b82a4302f1b56540a2435596a3125551f7dea",
+            "size": 2310351
+        },
         "minecraft/sounds/music/game/creative/creative1.ogg": {
             "hash": "3fe4c878450d4dc2bf3ac304e547f20d4efabad8",
             "size": 4271435
@@ -2771,6 +2811,10 @@
         "minecraft/sounds/records/chirp.ogg": {
             "hash": "ec8a2cbdf68b4e2136098ec33695e1c53625ddb8",
             "size": 1379756
+        },
+        "minecraft/sounds/records/dog.ogg": {
+            "hash": "b2a0d678e1fc42b906dd7a1b2207889651cdfdfe",
+            "size": 2367159
         },
         "minecraft/sounds/records/far.ogg": {
             "hash": "f46c38e7d6d7b19d5d68aa18b557215738deb36a",
