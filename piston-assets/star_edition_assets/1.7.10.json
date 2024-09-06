@@ -3179,6 +3179,18 @@
         "minecraft/sounds/tile/piston/out.ogg": {
             "hash": "cb017131516de9359cb81fb991f5b3694044f8db",
             "size": 6059
+        },
+        "minecraft/texts/credits.txt": {
+            "hash": "be8a8e666366f0931e367b60c2b27e77e5808552",
+            "size": 1777
+        },
+        "minecraft/texts/end.txt": {
+            "hash": "9eda5c940ce5d240278fc29bcc58d27a2520b8f5",
+            "size": 8913
+        },
+        "minecraft/texts/splashes.txt": {
+            "hash": "bedb0f35035e08ea7f60538f09c2cbed10e1d52f",
+            "size": 2639
         }
     }
 }
