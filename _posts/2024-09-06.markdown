@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Minecraft Star Edition 0.3"
+---
+
+**Changelog:**<br>
+\* Changed sheep wool probabilities and colors: 65% White, 15% Light grey, 15% Dark grey, 5% Spring Green, 0.25% Rose.<br>
+\* Slowed down paxels a bit for rebalancing.<br>
+\* Minor and major bugfixes.<br>
+\* Added Alternative Carpet dyeing.<br>
+\* Added Alternative Sticky Piston creation.<br>
+\* Reverted the fireball texture from a snowball.<br>
+\* Backported the Brewing Stand requiring Blaze Powder.<br>
+\* Backported the Enchanting Table requiring Lapis Lazuli.<br>
+\* Added the 'Spelunker's Chest'.<br>
+\* Monsters now drop a 'Monster Key' in certain conditions to open The Spelunker's Chest.<br>
+\* Certain World Generated Chests now have a chance to have pre-written books.<br>
+\* Librarians now have a chance to sell pre-written books.<br>
+\* Armor display is now on the right if hunger is not enabled.<br>
+\* Minecarts now damage entities and slow down on collision.<br>
+\* Wheat crops now have a 30% chance of dropping seeds.<br>
+\* Added World Saving indicator in the in-game menu.<br>
+\* Leather and chainmail armor no longer weighs down the player in water.<br>
+\* Reimplemented the monoliths from alpha (0.0122% per chunk).<br>
+\* Implemented floating islands (0.098% in Ocean biomes, 0.039% in Lowland, 0.0217% in other biomes).<br>
+\* Implemented a Stamina bar.<br>
+\* Hunger and Stamina are now affected by the Blood Moon event.<br>
+\* Implemented new game soundtracks.<br>
+\* Added new 'dog' Record.<br>
+\* Added new entries to some languages.<br>
+\* Removed most languages (We are now looking for translators!).<br>
+\* Implemented 'Generator Options' and 'Advanced World Options' in World creation menu.<br>
+\* Capes are now URL-based.<br>
+\* Made Spruce leaves appear white in snow biomes.<br>
+\* Replaced Copper placeholder textures with original ones.<br>
+\* Retouched Cape designs.<br>
+
+**GET THE SERVER RELEASE:**<br>
+
+Cross-platform server jar:<br>
+\* [Minecraft server jar](https://github.com/star-edition/star_edition-piston-meta/raw/master/0.3/star_edition0.3_server.jar)<br>

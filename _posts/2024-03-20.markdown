@@ -14,8 +14,3 @@ title: "Minecraft: Star Edition 0.0"
 \* Fixed a bug between the Endermen and block ids crashing the game<br>
 \* Added '/info' command (displays current world's information)<br>
 \* Added '/gm' command (short for /gamemode)<br>
-
-**GET THE SERVER RELEASE:**<br>
-
-Cross-platform server jar:<br>
-\* [Minecraft server jar](https://star-edition.github.io/star_edition/index.html)<br>

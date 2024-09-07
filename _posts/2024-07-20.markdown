@@ -11,8 +11,3 @@ title: "Minecraft Star Edition 0.2"
 \* Fixed an issue with Mimic Chests being casted to normal Chests<br>
 \* Added Cauldron-based armor dyeing<br>
 \* Added Cauldron-based potion brewing<br>
-
-**GET THE SERVER RELEASE:**<br>
-
-Cross-platform server jar:<br>
-\* [Minecraft server jar](https://star-edition.github.io/star_edition/index.html)<br>
