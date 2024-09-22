@@ -4,15 +4,15 @@ title: "Minecraft Star Edition 0.31"
 ---
 
 **Changelog:**<br>
-\* Added Falling Stars.
-\* Footstep effects now also spawn when walking on Sand blocks.
-\* Lowered Floating Island generation chances.
-\* Minor bugfixes.
-\* Ability to switch to classic Dispenser texture.
-\* Reimplemented the Cold Desert Biome.
-\* Added the 'Ruined House' structure.
-\* Raised the size of generated monoliths
-\* Added Charmed Diamonds to be in place of Diamond-related recipes
+\* Added Falling Stars.<br>
+\* Footstep effects now also spawn when walking on Sand blocks.<br>
+\* Lowered Floating Island generation chances.<br>
+\* Minor bugfixes.<br>
+\* Ability to switch to classic Dispenser texture.<br>
+\* Reimplemented the Cold Desert Biome.<br>
+\* Added the 'Ruined House' structure.<br>
+\* Raised the size of generated monoliths.<br>
+\* Added Charmed Diamonds to be in place of Diamond-related recipes.<br>
 
 **GET THE SERVER RELEASE:**<br>
 
