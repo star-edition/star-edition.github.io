@@ -1,0 +1,20 @@
+\*-
+layout: post
+title: "Minecraft Star Edition 0.4"
+\*-
+
+**Changelog:**<br>
+\* Minor bugfixes.<br>
+\* Temporarily removed footsteps.<br>
+\* Reworked Fishing.<br>
+\* Added a way to obtain to Boiled Porkchop & Boiled Beef through a Boiling Cauldron.<br>
+\* Implemented Boiled Eggs.<br>
+\* Game music no longer cuts off suddenly.<br>
+\* Reimplemented the Crying Obsidian to set a player's spawnpoint.<br>
+\* Added the 'Optifine' zoom.<br>
+\* Added Auto-Jump.<br>
+
+**GET THE SERVER RELEASE:**<br>
+
+Cross-platform server jar:<br>
+\* [Minecraft server jar](https://github.com/star-edition/star_edition-piston-meta/raw/master/0.4/star_edition0.4_server.jar)<br>
