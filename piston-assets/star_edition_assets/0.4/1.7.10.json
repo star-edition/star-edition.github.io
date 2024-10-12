@@ -1,8 +1,8 @@
 {
     "objects": {
         "pack.mcmeta": {
-            "hash": "4d8bad48b1a61099f7a77f8f30ec2f8d1c99e392",
-            "size": 446
+            "hash": "14b4126811662626377193494c451711a0e442e2",
+            "size": 339
         },
         "minecraft/credits.txt": {
             "hash": "c48d0fcabb00441f0444f55554f834e7497c5c7f",
@@ -12,13 +12,9 @@
             "hash": "44039adc722e0facd6c644e36e0cc52a8340a36b",
             "size": 47038
         },
-        "minecraft/lang/en_PT.lang": {
-            "hash": "4db286617cf2dd137768e8698f49affb4dcc53e9",
-            "size": 76966
-        },
         "minecraft/lang/ru_RU.lang": {
-            "hash": "787f5078dcf1c555a088f89489ef2e695a3366a2",
-            "size": 109164
+            "hash": "94b1d895ba995928cf9e8d21aea48426cd4a6d4a",
+            "size": 111284
         },
         "minecraft/sounds/ambient/cave/cave1.ogg": {
             "hash": "29d4dccf3353334c7aa2a49cb6fed3780a51a1ba",

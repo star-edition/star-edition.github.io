@@ -5,11 +5,6 @@
       "name": "English",
       "bidirectional": false
     },
-    "en_PT": {
-      "region": "PIRATE",
-      "name": "Pirate Speak",
-      "bidirectional": false
-    },
     "ru_RU": {
       "region": "Россия",
       "name": "Русский",
