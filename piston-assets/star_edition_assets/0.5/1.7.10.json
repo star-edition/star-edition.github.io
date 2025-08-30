@@ -5,12 +5,12 @@
             "size": 356
         },
         "minecraft/credits.txt": {
-            "hash": "c48d0fcabb00441f0444f55554f834e7497c5c7f",
-            "size": 886
+            "hash": "c4056d72af16e4fbab456a73e4ec125c680449c3",
+            "size": 877
         },
         "minecraft/sounds.json": {
-            "hash": "2dd2c55c73f4bb497d0a6c5b254700b4f849beb5",
-            "size": 49746
+            "hash": "acd8542baa4551188b21937437bd6f3dbb3dcfa6",
+            "size": 47193
         },
         "minecraft/lang/ru_RU.lang": {
             "hash": "122b22fb0b16b89408f9a5b286c27dedc888ae9c",
@@ -3197,16 +3197,16 @@
             "size": 6059
         },
         "minecraft/texts/credits.txt": {
-            "hash": "b72ce93f2eae9518320a7daf8c00445d1ab8eea6",
-            "size": 1804
+            "hash": "e0517309e58f4808cfd96f47bdb6691c8a6b25f6",
+            "size": 1722
         },
         "minecraft/texts/end.txt": {
-            "hash": "9eda5c940ce5d240278fc29bcc58d27a2520b8f5",
-            "size": 8913
+            "hash": "680b0f8b2d58264fd6e4cdcd3808a97cd0a03b60",
+            "size": 8762
         },
         "minecraft/texts/splashes.txt": {
-            "hash": "92ca729acd32a4da0cf5875324656ca672f7b7e4",
-            "size": 2663
+            "hash": "2f0da536986052f4f3ba375ecd52c457df8aa487",
+            "size": 2521
         }
     }
 }

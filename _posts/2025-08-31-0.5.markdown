@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Minecraft Star Edition 0.5"
+---
+
+**Changelog:**<br>
+\* Optimization changes.<br>
+\* Minor bugfixes.<br>
+\* Updated localization files.<br>
+\* Made Falling Stars render at higher distances.<br>
+\* Made Fallen Items render at higher distances.<br>
+\* Game Brightness can now be changed via the options file.<br>
+\* Crops can now be harvested with **RMB**.<br>
+\* Removed Unicode option in Language menu.<br>
+\* Added Seasons system.<br>
+\* Added localization to **Advanced World Options** and **Generation Options** menus.<br>
+\* Clocks show current season and time in item frames.<br>
+\* Snow and Ice now melt quicker in warm climates/biomes.<br>
+\* Raised chance of a **Spelunker’s Chest** being a Mimic.<br>
+\* Added a snow overlay on all blocks with snow above them.<br>
+\* Temporarily removed **Potion Literature** (to be reworked).<br>
+\* Cauldrons now fill with liquid when exposed to rain/snow.<br>
+\* AI improvements:<br>
+  &nbsp;&nbsp;- Creepers can strafe before attacking.<br>
+  &nbsp;&nbsp;- Zombie Pigmen become enraged at low HP.<br>
+\* Arrows that cannot be picked up now use the **purple arrow texture**.<br>
+\* Changed OST behavior: 25% chance for special OST if conditions are met.<br>
+\* Removed Fake Waterlogging System.<br>
+\* Monster Spawners now switch to specified mob when activated with a Spawn Egg.<br>
+\* Fixed pumpkins crashing the game.<br>
+\* Fixed Auto-Jump.<br>
+\* Fixed Bonemeal not fertilizing crops and saplings.<br>
+\* Fixed EntityPig AI.<br>
+\* Fixed BlockLeaves.<br>
+\* Patched up text scaling.<br>
+\* Refactored Cauldron code.<br>
+\* Noteblock Particles added.<br>
+\* GUI improvements: made code more maintainable & flexible, moved "Done" buttons, removed forced Unicode button.<br>
+\* Moved some colors to **Colors.java**.<br>
+
+**GET THE SERVER RELEASE:**<br>
+Cross-platform server jar:<br>
+\* [Minecraft server jar](https://github.com/star-edition/star_edition-piston-meta/raw/master/0.45/star_edition0.5_server.jar)<br>
